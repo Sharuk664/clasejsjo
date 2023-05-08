@@ -53,3 +53,15 @@ if (numero == "0") {
     alert("No se registro el número")
 }
 */
+
+/*
+//Ejercicio 4
+let result=("a + b < 4") ? 'Debajo' :
+        'Encima';
+let login = prompt("¿Quien eres?");
+let message = (login =='Empleado') ? 'Hola' :
+    (login == 'Director') ? 'Felicidades' :
+    (login == '') ? 'Sin sesión' :
+        '' ;
+     alert(message);
+*/
